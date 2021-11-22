@@ -1,0 +1,34 @@
+@font-face {
+    font-family: Comfortaa Light;
+    src: url(/assets/img/Comfortaa-Light.ttf);
+}
+@font-face {
+    font-family: Comfortaa Regular;
+    src: url(/assets/img/Comfortaa-Regular.ttf);
+}
+.nav-font {
+    font-family: Comfortaa Light;
+}
+.price {
+    color: #224870;
+    font-weight: bolder;
+    font-size:xx-large;
+}
+
+.btn-buy {
+    background-color: #224870;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+
+.info {
+    margin-left: 100px;
+    font-weight: bolder;
+}
+
+footer{
+    background-color: #224870;
+    color: white;
+    text-align: center;
+    font-size: smaller;
+}
